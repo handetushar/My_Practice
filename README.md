@@ -1,2 +1,2 @@
-# My_Practice
+# EDA
 This is for practice purpose
